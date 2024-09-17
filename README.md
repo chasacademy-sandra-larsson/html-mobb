@@ -6,7 +6,7 @@ Er uppgift är att skapa webbsidan "Top 5 famous rockbands". Webbsidan ska best�
 
 Bestäm i gruppen bra källor för HTML och CSS, exempelvis [w3schools.com/html](https://www.w3schools.com)
 
-Lös uppgiften genom att använda er av så kallad *Mobbprogrammering*. En navigatör skriver kod i VS Code. Övriga letar i dokumentation och förmedlar till navigatören vad som ska göras. Ordna ett schema så att alla i gruppen hinner vara navigatörer, exempelvis 15 minuter var.
+Lös uppgiften genom att använda er av så kallad **Mobbprogrammering**. En navigatör skriver kod i VS Code. Övriga letar i dokumentation och förmedlar till navigatören vad som ska göras. Ordna ett schema så att alla i gruppen hinner vara navigatörer, exempelvis 15 minuter var.
 
 ![Design](https://github.com/chasacademy-sandra-larsson/html-mobb/blob/main/top5rockbands.png)
 
