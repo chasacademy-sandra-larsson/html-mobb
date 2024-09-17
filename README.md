@@ -18,5 +18,5 @@ Lös uppgiften genom att använda er av så kallad **Mobbprogrammering**. En nav
 4. Gör en sista commit när ni är nöjda med sidan
 5. I Readme.md skriv en lista på lärdomar ni gjort under arbetets gång
 
-## Var nöjd med din och gruppens insats 🏅🏅🏅🏅🏅
+### Var nöjd med din och gruppens insats 🏅🏅🏅🏅🏅
 
